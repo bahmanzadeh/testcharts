@@ -1,1 +1,2 @@
 add a new note for child1 chart
+this is a chart to create some resources
