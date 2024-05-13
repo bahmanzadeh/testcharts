@@ -1,1 +1,3 @@
 add a new note for child1 chart
+this is a chart to create some resources
+now I have another change to this file
